@@ -16,7 +16,7 @@ Soy **QA Automation Engineer** con más de 10 años de experiencia en sectores c
 
 🚀 Actualmente trabajo en proyectos de biometría y seguridad, combinando QA con tecnologías cloud y entornos CI/CD (**GitHub Actions, Jenkins, BrowserStack, AWS**).  
 
-🌱 En paralelo exploro la intersección entre **IA y automatización de pruebas** con proyectos personales como **TestPilot**.  
+🌱 En paralelo exploro la intersección entre **IA y automatización de pruebas** con proyectos personales.  
 
 ---
 
